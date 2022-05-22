@@ -1,0 +1,2 @@
+# die
+Die ugly bastard
